@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="display_name" label="Diaplay name" language="en" table="x_309019_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <help/>
+            <hint/>
+            <label>Diaplay name</label>
+            <language>en</language>
+            <name>x_309019_wish_list_wish_item</name>
+            <plural>Diaplay names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-23 18:16:18</sys_created_on>
+            <sys_id>c0af5f322f177010314cc886f699b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Diaplay name</sys_name>
+            <sys_package display_value="Wish List" source="x_309019_wish_list">704ca83a2fdb3010314cc886f699b67c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">704ca83a2fdb3010314cc886f699b67c</sys_scope>
+            <sys_update_name>sys_documentation_x_309019_wish_list_wish_item_display_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-23 18:16:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
